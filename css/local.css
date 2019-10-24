@@ -21,11 +21,13 @@ img {
 }
 .navbar h1 {
 	font-size: 20px;
-	font-weight: 500;
 	color: #fff;
 }
 h2 {
-	font-family: 'Montserrat', sans-serif;		
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
+.list-content h2 {
 	color: #008f00;
 	margin-top: 0;
 	text-align:center;
