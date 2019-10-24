@@ -25,9 +25,10 @@ img {
 }
 h2 {
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 500;
+	font-weigt: normal;
 }
 .list-content h2 {
+	font-weight: 500;	
 	color: #008f00;
 	margin-top: 0;
 	text-align:center;
